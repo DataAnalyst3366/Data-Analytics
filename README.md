@@ -1,0 +1,3 @@
+In this, we explore the world of Swiggy, one of India's largest food delivery platforms,through the eyes of a data analyst. Follow along as we'll use SQL to perform a comprehensive analysis of Swiggy's business operations and gain insights into the platform's performance.
+
+We'll dive deep into Swiggy's data, 'll get an inside look at the company's operations and understand how Swiggy is able to serve millions of customers across India. We'll learn how data analysts use SQL to manipulate and clean the data, analyze it for trends and patterns, and visualize the insights in an easy-to-understand format.
